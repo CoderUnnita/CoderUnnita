@@ -8,10 +8,6 @@
 
 ###
 
-<h2 align="center">Learning Frontend Development || Computer Science Student</h2>
-
-###
-
 <h2 align="left">✨About Me</h2>
 
 ###
