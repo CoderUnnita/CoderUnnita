@@ -8,15 +8,7 @@
 
 ###
 
-<h2 align="left">✨About Me</h2>
-
-###
-
 <p align="left">I'm doing 100 days of code challenge.<br>Check it on LinkedIn !<br><br>I'm a BCA Student ( 2nd Year ) , currently learning Frontend Development.<br><br>🌸Goal : To Become a Frontend Engineer</p>
-
-###
-
-<p align="left"></p>
 
 ###
 
